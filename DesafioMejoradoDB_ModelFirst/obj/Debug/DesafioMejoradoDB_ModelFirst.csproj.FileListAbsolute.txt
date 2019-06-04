@@ -1,0 +1,14 @@
+C:\Users\Angel\source\repos\DesafioMejoradoEFDB\DesafioMejoradoDB_ModelFirst\bin\Debug\DesafioMejoradoDB_ModelFirst.exe.config
+C:\Users\Angel\source\repos\DesafioMejoradoEFDB\DesafioMejoradoDB_ModelFirst\bin\Debug\DesafioMejoradoDB_ModelFirst.exe
+C:\Users\Angel\source\repos\DesafioMejoradoEFDB\DesafioMejoradoDB_ModelFirst\bin\Debug\DesafioMejoradoDB_ModelFirst.pdb
+C:\Users\Angel\source\repos\DesafioMejoradoEFDB\DesafioMejoradoDB_ModelFirst\bin\Debug\EntityFramework.dll
+C:\Users\Angel\source\repos\DesafioMejoradoEFDB\DesafioMejoradoDB_ModelFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Angel\source\repos\DesafioMejoradoEFDB\DesafioMejoradoDB_ModelFirst\bin\Debug\EntityFramework.xml
+C:\Users\Angel\source\repos\DesafioMejoradoEFDB\DesafioMejoradoDB_ModelFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Angel\source\repos\DesafioMejoradoEFDB\DesafioMejoradoDB_ModelFirst\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Angel\source\repos\DesafioMejoradoEFDB\DesafioMejoradoDB_ModelFirst\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Angel\source\repos\DesafioMejoradoEFDB\DesafioMejoradoDB_ModelFirst\obj\Debug\DesafioMejoradoDB_ModelFirst.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\DesafioMejoradoEFDB\DesafioMejoradoDB_ModelFirst\obj\Debug\DesafioMejoradoDB_ModelFirst.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\DesafioMejoradoEFDB\DesafioMejoradoDB_ModelFirst\obj\Debug\DesafioMejoradoDB_ModelFirst.csproj.CopyComplete
+C:\Users\Angel\source\repos\DesafioMejoradoEFDB\DesafioMejoradoDB_ModelFirst\obj\Debug\DesafioMejoradoDB_ModelFirst.exe
+C:\Users\Angel\source\repos\DesafioMejoradoEFDB\DesafioMejoradoDB_ModelFirst\obj\Debug\DesafioMejoradoDB_ModelFirst.pdb

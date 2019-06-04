@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="ADO_Prueba" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="ADO_PruebaContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PersonaSet" EntityType="ADO_Prueba.Persona" />
+  </EntityContainer>
+  <EntityType Name="Persona">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" MaxLength="20" />
+    <Property Name="Edad" Type="Int32" Nullable="false" />
+    <Property Name="Carrera" Type="String" Nullable="false" MaxLength="20" />
+    <Property Name="Cuatrimestre" Type="Int32" Nullable="false" />
+  </EntityType>
+</Schema>
